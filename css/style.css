@@ -1,0 +1,9 @@
+img {
+    border: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+[img~=banner] {
+   float: left;
+  }
