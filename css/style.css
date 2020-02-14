@@ -4,6 +4,7 @@ img {
     border-width: thin;
 }
 
-[img~=banner] {
-   float: left;
+  section.p {
+      overflow: scroll;
+      width: 480px;
   }
