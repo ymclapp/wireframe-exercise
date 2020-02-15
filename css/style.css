@@ -2,9 +2,19 @@ img {
     border: black;
     border-style: solid;
     border-width: thin;
-}
+    margin-left: 30px;
+    margin-bottom: 20px;
+    }
 
   section.p {
       overflow: scroll;
       width: 480px;
+      position: absolute;
+      width: 230%;
   }
+
+div {
+    font-weight: bold;
+   
+    
+}
